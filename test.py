@@ -7,3 +7,6 @@ def increment(x):
 def decrement(x):
     x = x - 1
     return x
+
+def multiply(x):
+    return x*x
