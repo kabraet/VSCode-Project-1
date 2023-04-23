@@ -1,7 +1,5 @@
 print ("Hello World")
 
-# testing 
-
 def increment(x):
     x = x + 1
     return x
@@ -9,4 +7,3 @@ def increment(x):
 def decrement(x):
     x = x - 1
     return x
-
