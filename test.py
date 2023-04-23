@@ -11,9 +11,7 @@ def decrement(x):
     return x
 
 def square(x):
-    return x*x*x
+    return x*x
 
 def squareroot(x):
     return math.sqrt(x)
-
-#testing
