@@ -1,5 +1,4 @@
 print ("Hello World")
-# testing
 
 def increment(x):
     x = x + 1
